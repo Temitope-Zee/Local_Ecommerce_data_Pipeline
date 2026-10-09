@@ -1,0 +1,5 @@
+transform_project/target/
+transform_project/logs/
+transform_project/data/*.duckdb
+__pycache__/
+venv/

@@ -1,0 +1,6 @@
+transform_project:
+  outputs:
+    dev:
+      type: duckdb
+      path: /opt/airflow/transform_project/data/ecommerce.duckdb
+  target: dev

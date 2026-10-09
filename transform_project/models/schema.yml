@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: transform_project
+    schema: main
+    tables:
+      - name: raw_orders
